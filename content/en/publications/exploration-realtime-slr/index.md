@@ -1,0 +1,9 @@
+---
+title: "Exploration of ECG-based Real-time Arrhythmia Detection: A systematic literature review"
+description: ""
+date: 2022-12-05T20:52:08+07:00
+lastmod: 2022-12-05T20:52:08+07:00
+draft: false
+images: []
+---
+Cardiac arrhythmia is a medical term to describe an irregular heartbeat, which occurs when electrical properties in the heart incapacitated. Although most of arrhythmias are harmless, some of them can lead to life threatening complications if not detected and monitored on time. To date, a real-time automatic arrhythmia detection is essential in the current health system. This can be seen from numerous research that has been conducted on the automatic detection and classification of various types of arrhythmias.  This study seeks to find as much relevant research on the abundance of published work in the topic, to identify the state-of-the art methods and finding the gap in the research in an effort to summarize all of the available evidence of the distinguish real-time automatic arrhythmia detection. A careful quantitative research process of systematic literature review (SLR) within the Health Informatics area was applied in this research to identify and analyze the trends, datasets, and methods in real-time arrhythmia detection. Systematic searches were administered in Scopus using a defined search string, while several filters were applied based on inclusion and exclusion criteria. After removing duplicates and non-eligible articles, the data were extracted from the selected articles with the result shows that the number of studies focusing on the real-time detection of arrhythmia is still limited, but on a rising trend.  Finally, the analysis of the datasets, feature extraction, classification methods and a table of algorithm comparison were presented as the result of the study, which summarized the pre-eminent methods of real-time arrhythmia classification based on its average accuracy.

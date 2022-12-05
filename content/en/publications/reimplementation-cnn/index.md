@@ -1,0 +1,9 @@
+---
+title: "Re-implementation of Convolutional Neural Network for Arrhythmia Detection"
+description: ""
+date: 2022-12-05T20:51:53+07:00
+lastmod: 2022-12-05T20:51:53+07:00
+draft: false
+images: []
+---
+Arrhythmia is an irregular heartbeat that may cause serious problems such as cardiac arrest and heart failure if left untreated. A dozen of studies have been conducted to make an automated arrhythmia detector. The classification approach uses a simple rule-based model, traditional machine learning, to a modern deep-learning technique. However, comparing an arrhythmia classifier performance is not an easy task. There are several different datasets, classification standards, data splitting schemes, and metrics. To assess the real performance of the developed models, it is important to train and evaluate the model in a standardized method such as the result score can become standard too. In this study, a set of CNN models from Acharya were re-implemented by re-training and re-evaluating it in a more standardized method. The model uses a raw ECG waveform with 260 samples around the QRS peaks and classifies it into five arrhythmia classes. The experiment was conducted using three configurations, using both intra-patient and inter-patient schemes. The experimental results show good performance for the intra-patient scheme but not for the inter-patient. There is a reduction of sensitivity and precision in the intra-patient scheme using a standardized method in this study compared to the original paper. This result indicates biased results caused by the oversampled test data in the original paper. In addition to the intra-patient result, the inter-patient result is also provided for a standardized comparison to other works in the future.

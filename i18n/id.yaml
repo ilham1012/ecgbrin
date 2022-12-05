@@ -1,0 +1,17 @@
+- id: get-started
+  translation: "Mulai"
+
+- id: on-this-page
+  translation: "Di halaman ini"
+
+- id: search-text
+  translation: "Cari dokumen..."
+
+- id: 404-title
+  translation: "Halaman tidak ditemukan :("
+
+- id: 404-text
+  translation: "Halaman yang anda cari tidak ada atau sudah dipindahkan."
+
+- id: browse
+  translation: "Browse"

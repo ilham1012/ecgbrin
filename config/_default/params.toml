@@ -1,10 +1,10 @@
 # Meta Data for SEO
 
 ## Homepage
-title = "Doks"
+title = "BRIN ECG"
 titleSeparator = "-"
-titleAddition = "Modern Documentation Theme"
-description = "Doks is a Hugo theme for building secure, fast, and SEO-ready documentation websites, which you can easily update and customize."
+titleAddition = "Research Group"
+description = "Research group with an intereset of ECG and other biomedical signal processing for Health Care. "
 
 ## Documentation
 # docsVersion = "0.3"
@@ -65,7 +65,7 @@ defaultImage = "default-image.png" # put in `./assets/images/`
 fillImage = "1270x740 Center" # normalize image size
 
 # Footer
-footer = "Powered by <a class=\"text-muted\" href=\"https://www.netlify.com/\">Netlify</a>, <a class=\"text-muted\" href=\"https://gohugo.io/\">Hugo</a>, and <a class=\"text-muted\" href=\"https://getdoks.org/\">Doks</a>"
+footer = "Powered by <a class=\"text-muted\" href=\"https://brin.go.id/\">BRIN</a>, <a class=\"text-muted\" href=\"https://gohugo.io/\">Hugo</a>, and <a class=\"text-muted\" href=\"https://getdoks.org/\">Doks</a>"
 
 # Feed
 copyRight = "Copyright (c) 2020-2021 Henk Verlinde"
@@ -101,7 +101,7 @@ lastMod = false
   breadCrumb = false
   highLight = true
   kaTex = false
-  multilingualMode = false
+  multilingualMode = true
   docsVersioning = false
   fullWidth = false
   navbarSticky = true
