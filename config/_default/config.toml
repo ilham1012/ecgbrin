@@ -1,4 +1,4 @@
-baseurl = "https://ecg.brin.go.id/"
+# baseurl = "https://ecg.brin.go.id/"
 canonifyURLs = false
 disableAliases = true
 disableHugoGeneratorInject = true
